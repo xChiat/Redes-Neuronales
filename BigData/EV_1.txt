@@ -1,0 +1,313 @@
+Evaluación Sumativa 01
+Introducción al Big Data
+
+1.	¿Cuál es el objetivo final de Big Data según el documento?
+a) Almacenar datos infinitamente.
+b) Obtener valor de los datos para la toma de decisiones. ##
+c) Eliminar la necesidad de analistas humanos.
+d) Reducir la velocidad de generación de datos.
+
+2.	¿A qué se refiere la "V" de Veracidad?
+a) Al tamaño de los archivos.
+b) A la rapidez con que se generan los datos.
+c) A la fiabilidad y calidad de la información.##
+d) A los diferentes formatos de los datos.
+
+3.	¿En qué orden de magnitud de volumen se encuentran las organizaciones actuales según el texto?
+a) Gigabytes.
+b) Terabytes.
+c) Petabytes.##
+d) Megabytes.
+
+4.	Un equipo de analistas está procesando datos en múltiples formatos (video, sensores, texto). ¿Qué dimensión de las 5V debe ser priorizada en el diseño de la arquitectura?
+A) Velocidad
+B) Veracidad
+C) Variedad ##
+D) Valor
+
+5.	Una aplicación de predicción climática necesita resultados en segundos para emitir alertas. ¿Qué combinación de dimensiones de las 5V es crítica en este caso?
+A) Volumen y veracidad
+B) Velocidad y veracidad
+C) Velocidad y volumen
+D) Velocidad y valor ##
+
+6.	El análisis de sentimiento en redes sociales puede presentar resultados inconsistentes por ambigüedad en el lenguaje. ¿Qué dimensión del Big Data se ve más comprometida?
+A) Valor
+B) Veracidad ##
+C) Variedad
+D) Volumen
+
+7.	¿Qué característica de las soluciones Big Data permite convertir grandes cantidades de datos sin estructura en información útil para la toma de decisiones?
+A) Escalabilidad
+B) Visualización ##
+C) Valor 
+D) Gobernanza
+
+8.	En un proyecto donde los datos presentan alta frecuencia de actualización y patrones inestables, ¿qué dimensión adicional a las 5V resulta fundamental considerar?
+A) Vulnerabilidad
+B) Variabilidad ##
+C) Visibilidad
+D) Validación
+
+9.	Una plataforma educativa adaptativa entrega contenido según el desempeño en tiempo real de cada estudiante. ¿Qué característica del Big Data lo hace posible?
+A) Volumen
+B) Valor ##
+C) Velocidad
+D) Visualización
+
+10.	Según la tabla de medidas, ¿a cuántos bytes equivale un Gigabyte (GB)?
+a) 1.000 bytes.
+b) 1.000.000 bytes.
+c) 1.000.000.000 bytes. ##
+d) 1.000.000.000.000 bytes.
+
+11.	¿Qué tipo de datos son las redes sociales, videos y correos electrónicos?
+a) Datos Estructurados.
+b) Datos Semiestructurados.
+c) Datos No Estructurados. ##
+d) Datos Binarios.
+
+12.	¿Qué característica obliga al uso de procesamiento distribuido en Big Data?
+a) El bajo costo del hardware.
+b) La diversidad de fuentes y el volumen masivo. ##
+c) La falta de personal especializado.
+d) El uso exclusivo de bases de datos SQL.
+
+13.	Los archivos XML y logs de sistema se clasifican como:
+a) Datos Estructurados.
+b) Datos Semiestructurados. ##
+c) Datos No Estructurados.
+d) Datos de Transacciones.
+
+14.	¿Qué hardware especializado se menciona para acelerar cálculos de IA?
+a) Teclados mecánicos.
+b) Discos duros mecánicos.
+c) GPUs, FPGAs o TPUs. ##
+d) Monitores 4K.
+
+15.	¿Cuál es la definición de Data Science según el guion?
+a) El arte de vender computadores.
+b) El estudio detallado del flujo de información a partir de grandes volúmenes de datos. ##
+c) La reparación de bases de datos corruptas.
+d) El diseño de páginas web corporativas.
+
+16.	¿Qué disciplinas combina la Ciencia de Datos?
+a) Marketing y Diseño Gráfico.
+b) Estadística, Matemáticas, Informática y expertis en un área de conocimiento. ##
+c) Contabilidad y Derecho Laboral.
+d) Física Cuántica y Química.
+
+17.	¿Cuál es la primera etapa del proceso de Data Science?
+a) Data Preparation.
+b) Business Understanding. ##
+c) Model Building.
+d) Evaluating Model.
+
+18.	¿En qué etapa se realiza la limpieza y procesamiento de la información?
+a) Business Understanding.
+b) Data Preparation. ##
+c) Evaluating Model.
+d) Model Deployment.
+
+19.	¿Qué nivel de analítica responde a la pregunta "¿Qué pasó?"?
+a) Analítica de Diagnóstico. 
+b) Analítica Predictiva.
+c) Analítica Descriptiva. ##
+
+20.	¿Qué nivel de analítica busca entender las causas y responde "¿Por qué sucedió?"?
+a) Analítica Descriptiva.
+b) Analítica de Diagnóstico. ##
+c) Analítica Prescriptiva.
+
+21.	¿Qué nivel de analítica busca predecir valores futuros?
+a) Analítica Descriptiva.
+b) Analítica de Diagnóstico.
+c) Analítica Predictiva. ##
+
+22.	¿Qué nivel de analítica busca optimizar la decisión a tomar?
+a) Analítica Predictiva.
+b) Analítica Prescriptiva. ##
+c) Analítica Descriptiva.
+
+23.	Según el gráfico de Gartner, ¿qué nivel ofrece el mayor valor de negocio?
+a) Descriptiva.
+b) Diagnóstico.
+c) Prescriptiva. ##
+
+24.	¿Qué término se asocia con la analítica prescriptiva en el gráfico de Gartner?
+a) Hindsight.
+b) Insight. 
+c) Foresight. ##
+
+
+25.	¿Qué unidad sigue al Petabyte (PB) en la tabla?
+a) Terabyte.
+b) Exabyte. ##
+c) Zettabyte.
+
+26.	¿Qué es el "valor" en las 5Vs de Big Data?
+a) El precio de los servidores.
+b) La utilidad que se obtiene al procesar los datos para el negocio. ##
+c) El costo de la conexión a internet.
+
+27.	¿Qué característica de Big Data se refiere a la rapidez de generación de datos?
+a) Volumen. ##
+b) Variedad.
+c) Velocidad.
+
+28.	Las bases de datos relacionales son un ejemplo de:
+a) Datos Estructurados. ##
+b) Datos Semiestructurados.
+c) Datos No Estructurados.
+
+
+
+
+29.	¿Qué significa "multimodal" en el contexto de Big Data?
+a) Que los datos solo se pueden leer en un modo.
+b) Que los datos provienen de múltiples fuentes y formatos. ##
+c) Que los datos son muy pequeños.
+
+30.	¿Qué se hace en la etapa de "Model Building"?
+a) Se define el problema de negocio.
+b) Se aplican algoritmos y técnicas de modelado sobre los datos preparados. ##
+c) Ver si el modelo tiene la precisión óptima para el negocio.
+
+31.	¿Qué busca la etapa de "Evaluación" en Data Science?
+a) Ver si el modelo tiene la precisión óptima para el negocio. ##
+b) Comprar nuevas herramientas.
+c) Se aplican algoritmos y técnicas de modelado sobre los datos preparados.
+
+32.	¿Qué técnica permite que las computadoras aprendan de los datos para ofrecer modelos predictivos?
+a) SQL.
+b) Machine Learning. ##
+c) HTML.
+
+
+
+33.	¿Qué subconjunto de Machine Learning permite generar productos inteligentes complejos?
+a) Deep Learning. ##
+b) Excel Avanzado.
+c) Almacenamiento NAS.
+
+34.	¿Qué unidad equivale a $1000^4$ bytes?
+a) Megabyte.
+b) Terabyte. ##
+c) Gigabyte.
+
+35.	¿Qué unidad equivale a $1000^7$ bytes?
+a) Exabyte.
+b) Zettabyte. ##
+c) Yottabyte.
+
+36.	Un Byte está compuesto por:
+a) 4 bits.
+b) 8 bits. ##
+c) 16 bits.
+
+
+
+37.	¿Cuál es la fuente de datos más reconocida actualmente según el texto?
+a) La Web. ##
+b) Periódicos impresos.
+c) Radio AM.
+
+38.	¿Qué nivel de analítica se asocia con la palabra "Insight"?
+a) Descriptiva.
+b) Predictiva. ##
+c) Prescriptiva.
+
+39.	¿Qué nivel de analítica se asocia con "Hindsight"?
+a) Descriptiva. ##
+b) Predictiva.
+c) Prescriptiva.
+
+40.	¿Qué se requiere para "darle sentido" a Big Data según el texto?
+a) Solo almacenamiento.
+b) Equipos multidisciplinarios y herramientas de análisis. ##
+c) Borrar los datos antiguos.
+
+
+
+
+41.	¿Qué etapa del proceso de Data Science traduce los resultados al "idioma" del negocio?
+a) Data Preparation.
+b) Visualización y presentación de resultados. ##
+c) Data Discovery.
+
+42.	¿Cuál es un ejemplo de dato No Estructurado?
+a) Una tabla Excel de sueldos.
+b) Un archivo XML de facturas.
+c) Un video de una cámara de seguridad. ##
+
+43.	¿Cuál es la "V" que aborda el desafío de la fiabilidad?
+a) Volumen.
+b) Veracidad. ##
+c) Variedad.
+
+44.	¿A cuántos bytes equivale un Kilobyte (KB)?
+a) 100 bytes.
+b) 1.000 bytes. ##
+c) 10.000 bytes.
+
+
+
+
+45.	¿Qué unidad es mayor: Terabyte o Petabyte?
+a) Terabyte.
+b) Petabyte. ##
+
+46.	¿Qué dispositivo genera datos para servicios de e-commerce e inteligentes?
+a) Chips NFC y RFID. ##
+b) Disqueteras.
+c) Impresoras de matriz de punto.
+
+47.	¿Cuál es el objetivo de la analítica de diagnóstico?
+a) Predecir el clima.
+b) Entender relaciones entre variables para explicar por qué ocurrió algo. ##
+c) Graficar las ventas del mes.
+
+48.	¿Cuál es la principal característica del hardware para Big Data?
+a) Ser portátil.
+b) Ser distribuido y especializado. ##
+c) Ser de marca reconocida.	
+
+49.	¿Qué se hace en "Business Understanding"?
+a) Escribir código en Python.
+b) Levantar información sobre las necesidades del negocio. ##
+c) Instalar el sistema operativo.
+
+50.	¿Qué nivel de analítica es el más difícil de implementar según Gartner?
+a) Descriptiva.
+b) Predictiva. 
+c) Prescriptiva. ##
+
+51.	¿A qué se refiere la "V" de Volumen?
+a) Al sonido de las máquinas.
+b) A la cantidad o tamaño de los datos. ##
+c) Al valor monetario de la empresa.
+
+52.	¿Cuál de estos es un ejemplo de analítica predictiva?
+a) Reporte de ventas de ayer.
+b) Estimación de la demanda de productos para el próximo mes. ##
+c) Lista de clientes actuales.
+
+53.	¿Por qué es importante la velocidad en Big Data?
+a) Porque los datos pueden perder su valor rápidamente si no se analizan. ##
+b) Para que el computador no se caliente.
+c) Para usar menos cables.
+
+54.	¿Qué tipo de dato es un archivo de texto con separadores (CSV)?
+a) Estructurado (normalmente).
+b) Semiestructurado. ##
+c) No estructurado.
+
+55.	¿Qué ciencia estudia el flujo de información para extraer conocimiento?
+a) Data Science. ##
+b) Mecánica de fluidos.
+c) Sociología.
+
+56.	¿Cuál es el paso final del proceso de Data Science mencionado?
+a) Business Understanding.
+b) Model Deployment. ##
+c) Model Building.
